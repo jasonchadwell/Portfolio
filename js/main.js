@@ -615,7 +615,7 @@
       }
     });
 
-    /*----------- Contact -----------*/
+    /*----------- Contact 
 
     $('.contact-form').on('submit', function(event) {
       var form = $(this);
@@ -661,7 +661,7 @@
     });
 
   });
-  $(window).on('load', function() {
+  $(window).on('load', function() {-----------*/
     /*----------- Preloader -----------*/
 
     $('.preloader-icon').fadeOut(400);
