@@ -658,10 +658,10 @@
             }
           });
       }, 1000);
-    });
+    });-----------*/
 
   });
-  $(window).on('load', function() {-----------*/
+  $(window).on('load', function() {
     /*----------- Preloader -----------*/
 
     $('.preloader-icon').fadeOut(400);
